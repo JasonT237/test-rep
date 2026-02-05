@@ -1,0 +1,10 @@
+body{
+    display:flex;
+    justify-content: center;
+    background-color: rgb(243, 243, 243);
+}
+
+.login-card{
+    display: flex;
+    flex-direction: column;
+}
